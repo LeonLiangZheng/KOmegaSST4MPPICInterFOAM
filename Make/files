@@ -1,0 +1,3 @@
+kOmegaSSTPhaseCompressible.C
+
+LIB = /lustre/home/uceclz4/EncodeSubmodel/20260329myKOmegaSST/libmyKOmegaSST
