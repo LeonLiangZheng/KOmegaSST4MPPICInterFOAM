@@ -9,7 +9,7 @@ Description
     Instantiation of kOmegaSST turbulence model for
     PhaseCompressibleTurbulenceModel<immiscibleIncompressibleTwoPhaseMixture>.
 
-    Usage: add  libs ("libmyPhaseCompressibleKOmegaSST.so");
+    Usage: add  libs ("libmyKOmegaSST.so");
            to system/controlDict
 \*---------------------------------------------------------------------------*/
 
